@@ -1,0 +1,10 @@
+logradouro,numero,complemento,cep,bairro,cidade,uf  
+rua a,10,segunda etapa,60000210,p,x,ce
+rua b,11,null,60000211,p,x,ce
+rua c,12,primeira etapa,60000212,p,x,ce
+rua d,13,terceira etapa,60000213,p,x,ce
+rua e,14,null,60000214,p,x,ce
+rua f,15,casa de cima,60000215,p,x,ce
+rua g,16,null,60000216,p,x,ce
+rua h,17,null,60000217,p,x,ce
+rua i,18,null,60000218,p,x,ce

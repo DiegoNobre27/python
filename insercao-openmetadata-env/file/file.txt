@@ -1,0 +1,7 @@
+nome,sobrenome,idade,sexo
+Diego,Nobre,35,M
+Tamilys,de Jesus,36,F
+Lucia,Maria,60,F
+Jose,Lopes,61,M
+Francisco,Tamenson,34,M
+Samara,Valente,31,F

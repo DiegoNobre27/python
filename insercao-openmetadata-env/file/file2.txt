@@ -1,0 +1,4 @@
+nome,sobrenome,idade,sexo
+Daniel,Silva,15,M
+Miguel,Valente,8,M
+Maria,Valente,4,F
